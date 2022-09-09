@@ -86,7 +86,9 @@ headaches, and sometimes require bed rest to recover.
 
 Many operating systems have had accessibility settings for specifying a preference for reduced
 motion for a long time. The screenshots below show macOS Mojave's **Reduce motion** preference and
-Android Pie's **Remove animations** preference. When checked, these preferences cause the operating
+Android Pie's **Remove animations** preference. On Windows, there are
+[several locations](https://www.tpgi.com/short-note-on-prefers-reduced-motion-and-puzzled-windows-users/)
+which control the setting. When checked, these preferences cause the operating
 system to not use decorative effects like app launching animations. Applications themselves can and
 should honor this setting, too, and remove all unnecessary animations.
 
